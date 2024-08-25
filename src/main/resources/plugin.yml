@@ -1,0 +1,9 @@
+name: MiningBlock
+version: '${project.version}'
+main: me.forfunpenguin.miningblock.MiningBlock
+api-version: 1.20
+commands:
+  miningblock:
+    description: 主要指令
+  playtime:
+    description: 查看總遊戲時數
